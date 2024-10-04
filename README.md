@@ -1,5 +1,9 @@
 ### study-of-basic-gates
 
+NAME:NANDHANA.R
+REG NO:212223040124
+EX:NO:01
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -64,15 +68,25 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+Program for logic gates and verify its truth table in quartus using Verilog programming
+```
+![image](https://github.com/user-attachments/assets/876cb78a-dbd1-4904-8754-a165da6236c8)
+```
+
+
+ Developed by: RegisterNumber: 212223040124
  
-**Logic symbol & Truthtable**
+
+
 
 **RTL realization Output:** 
+![image](https://github.com/user-attachments/assets/ff6ce73b-0f9d-467b-ae76-3b01e81137bc)
 
-**RTL**
+
+**OUTPUT**
+![image](https://github.com/user-attachments/assets/8ec770ae-ae51-467b-ae73-5e941274d679)
+
 
 **Result:**
 
